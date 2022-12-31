@@ -1,4 +1,4 @@
-# BANKIST APP 
+# MAPTY
 
 ## Table of contents
 
